@@ -1,0 +1,44 @@
+p{
+	width: 300px;
+	height: 2px;
+	background-color: black;
+}
+.contenedor{
+
+}
+
+.box{
+	width: 200px;
+	height: 200px;
+	float: left;
+	margin: 15px;
+	position: relative;
+}
+
+span{
+	font-size: 16px;
+	color: #FCF9F9;
+	position: absolute;
+	right: 0;
+	bottom:0;
+}
+
+.foto1{
+	background-image:url(../img/profile-1.png);
+}
+.foto2{
+	background-image: url(../img/profile-2.png);
+}
+.foto3{
+	background-image: url(../img/profile-3.png);
+}
+.foto4{
+	background-image: url(../img/profile-4.png);
+	clear: left;
+}
+.foto5{
+	background-image: url(../img/profile-5.png);
+}
+.foto6{
+	background-image: url(../img/profile-6.png);
+}
